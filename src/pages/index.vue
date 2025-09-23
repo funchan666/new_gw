@@ -3,7 +3,7 @@ defineOptions({
   name: 'IndexPage',
 })
 const APPNAME = 'Chimeo'
-const EMAILADDRESS = 'Email_Address'
+const EMAILADDRESS = 'cyh20260902@163.com'
 </script>
 
 <template>
